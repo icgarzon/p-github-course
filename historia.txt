@@ -1,14 +1,1 @@
-adasdasdadasd
-2 Line
-<<<<<<< HEAD
-<<<<<<< HEAD
-3 Line
-
-Otra linea en la 5
-Otra linea en la 6
-=======
-3 Line
->>>>>>> parent of 99f7c72... Agrega al 5
-=======
-3 Line
->>>>>>> parent of 99f7c72... Agrega al 5
+Start Again
